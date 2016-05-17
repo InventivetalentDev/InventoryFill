@@ -1,0 +1,4 @@
+name: InventoryFill
+main: org.inventivetalent.inventoryfill.InventoryFill
+author: inventivetalent
+version: ${project.version}
